@@ -1,13 +1,13 @@
 [![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG6VVq4uBcvBSSQSLy800nf3GS1r2RNvAIrzlD5sbuRDDjJfp6zui51LIf6OMYwCxdm3WiMhFVcMLnqjRCHDRQ-j9x-cLVwKXgR0hoxCA9NxlATkIJZwd9rUETQuZlfspEKc2DLPuFE8aL5kAsGiYaV8Neii_wjaZqAC9isuR5aw4VnRzsGMjiQlriSOzp/s1600/android.gif)](https://codingmaster24.blogspot.com/)
 <h1 align="center">Hi 👋, I'm Siva</h1>
 <h3 align="center">🚀 Young and passionate coder | Proficient in C, C++, Python, Java, MySQL, Unreal Engine 5, Flutter Dev | Lifelong learner exploring the world of tech</h3>
-<img align="right" alt="Coding" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRPVWyVxlIcTZvSbwbt3eWemgArs6ve-EWNHEiCohQX5rcZ2GhKWdPbmInV7y9NhoHp0yEEJPjMpqBjxhV5-xdwTmfzYW3PGJDlv9tKvOMOKInnxKfD18ZHR0xXXIHnGuRCGng-vs6BbMx80xnEaBM9aVTU5cOHSVssUp6vOsO485K2W4mQsYEKj406uxA/s1920/coder.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivatech24&label=Profile%20views&color=0e75b6&style=flat" alt="sivatech24" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sivatech24" alt="sivatech24" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<img align="right" alt="Coding" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRPVWyVxlIcTZvSbwbt3eWemgArs6ve-EWNHEiCohQX5rcZ2GhKWdPbmInV7y9NhoHp0yEEJPjMpqBjxhV5-xdwTmfzYW3PGJDlv9tKvOMOKInnxKfD18ZHR0xXXIHnGuRCGng-vs6BbMx80xnEaBM9aVTU5cOHSVssUp6vOsO485K2W4mQsYEKj406uxA/s1920/coder.gif">
 - 🔭 I’m currently working on [Movie Recommendation Imdb](https://github.com/Sivatech24/MovieRecommendationImdb.git)
 
 - 🌱 I’m currently learning **React, Unreal Engine 5**
