@@ -8,7 +8,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sivatech24" alt="sivatech24" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRPVWyVxlIcTZvSbwbt3eWemgArs6ve-EWNHEiCohQX5rcZ2GhKWdPbmInV7y9NhoHp0yEEJPjMpqBjxhV5-xdwTmfzYW3PGJDlv9tKvOMOKInnxKfD18ZHR0xXXIHnGuRCGng-vs6BbMx80xnEaBM9aVTU5cOHSVssUp6vOsO485K2W4mQsYEKj406uxA/s1920/coder.gif">
+
+<img align="left" alt="Coding" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwULnceKPVHBOOOgcTbOWkyKqtwdhFrvE4YS5fUvXPRFAbPPeHC-98uzUB0eySGfZ-FJAPdYTSYuPoPSCz5fv7VqFYcMz__fVuoelCPPVhjR3JQrmvTF5DEW5cv57ALBLfYB8pQzdia1njN68ruybSoWl-xbjK6TXjEdLGr_dAKYHL-f_t0jR2LL8IgJrX/s320/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 - 🔭 I’m currently working on [Movie Recommendation Imdb](https://github.com/Sivatech24/MovieRecommendationImdb.git)
 
 - 🌱 I’m currently learning **React, Unreal Engine 5**
@@ -36,8 +37,9 @@
 </p>
 
 <h3 align="left">Work :</h3>
-<img align="left" alt="Coding" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwULnceKPVHBOOOgcTbOWkyKqtwdhFrvE4YS5fUvXPRFAbPPeHC-98uzUB0eySGfZ-FJAPdYTSYuPoPSCz5fv7VqFYcMz__fVuoelCPPVhjR3JQrmvTF5DEW5cv57ALBLfYB8pQzdia1njN68ruybSoWl-xbjK6TXjEdLGr_dAKYHL-f_t0jR2LL8IgJrX/s320/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="right" alt="Coding" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRPVWyVxlIcTZvSbwbt3eWemgArs6ve-EWNHEiCohQX5rcZ2GhKWdPbmInV7y9NhoHp0yEEJPjMpqBjxhV5-xdwTmfzYW3PGJDlv9tKvOMOKInnxKfD18ZHR0xXXIHnGuRCGng-vs6BbMx80xnEaBM9aVTU5cOHSVssUp6vOsO485K2W4mQsYEKj406uxA/s1920/coder.gif">
 <img align="center" alt="Coding" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil9l0BVTXTkVu-c5Vqfyh6KU5bTyIrR2kI1rkdiB4BX_KRPopP6ap42BqqkY6s0YH39L2_HjcE0WUygV-GyWxNJFB_65xrjDj3jHJRcBEbmH2Qh1dhrNQrE52CfRtuWf0H73bZmCP4eO-3sGwIIWiOvm9MrlLR-pBL7mT_87PYCalTBBRtY5cBxRQcKBVq/s320/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif">
+<img align="left" alt="Coding" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwULnceKPVHBOOOgcTbOWkyKqtwdhFrvE4YS5fUvXPRFAbPPeHC-98uzUB0eySGfZ-FJAPdYTSYuPoPSCz5fv7VqFYcMz__fVuoelCPPVhjR3JQrmvTF5DEW5cv57ALBLfYB8pQzdia1njN68ruybSoWl-xbjK6TXjEdLGr_dAKYHL-f_t0jR2LL8IgJrX/s320/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 <img align="right" alt="Coding" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHlH6RjIGTdzlnrOoQR9A9J1rwsro9OuRIYhqs2_iyf4BcDkH3NgTW8S-WAYY1cuntqWBgrHkRMoKd3b3C13dZAU_KRjqltWmgBznDAg5LCPZ8uBpFD7qYLleAICIFFZWdsspD4cNjZkv9NiQL5GcroW0kMpSZaN9SU_L1H95VfQ0jfquhkbINGU_ismfW/s1600/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 
 
