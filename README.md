@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="left" alt="Coding" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwULnceKPVHBOOOgcTbOWkyKqtwdhFrvE4YS5fUvXPRFAbPPeHC-98uzUB0eySGfZ-FJAPdYTSYuPoPSCz5fv7VqFYcMz__fVuoelCPPVhjR3JQrmvTF5DEW5cv57ALBLfYB8pQzdia1njN68ruybSoWl-xbjK6TXjEdLGr_dAKYHL-f_t0jR2LL8IgJrX/s320/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="right" alt="Coding" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwULnceKPVHBOOOgcTbOWkyKqtwdhFrvE4YS5fUvXPRFAbPPeHC-98uzUB0eySGfZ-FJAPdYTSYuPoPSCz5fv7VqFYcMz__fVuoelCPPVhjR3JQrmvTF5DEW5cv57ALBLfYB8pQzdia1njN68ruybSoWl-xbjK6TXjEdLGr_dAKYHL-f_t0jR2LL8IgJrX/s320/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 - 🔭 I’m currently working on [Movie Recommendation Imdb](https://github.com/Sivatech24/MovieRecommendationImdb.git)
 
 - 🌱 I’m currently learning **React, Unreal Engine 5**
