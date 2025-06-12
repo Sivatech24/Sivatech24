@@ -1,6 +1,6 @@
 [![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG6VVq4uBcvBSSQSLy800nf3GS1r2RNvAIrzlD5sbuRDDjJfp6zui51LIf6OMYwCxdm3WiMhFVcMLnqjRCHDRQ-j9x-cLVwKXgR0hoxCA9NxlATkIJZwd9rUETQuZlfspEKc2DLPuFE8aL5kAsGiYaV8Neii_wjaZqAC9isuR5aw4VnRzsGMjiQlriSOzp/s1600/android.gif?loop=1)](https://codingmaster24.blogspot.com/)
 
-<div align="left">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Siva;Welcome+to+my+profile!" alt="Title">
 </div>
 
