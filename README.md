@@ -15,7 +15,9 @@
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwULnceKPVHBOOOgcTbOWkyKqtwdhFrvE4YS5fUvXPRFAbPPeHC-98uzUB0eySGfZ-FJAPdYTSYuPoPSCz5fv7VqFYcMz__fVuoelCPPVhjR3JQrmvTF5DEW5cv57ALBLfYB8pQzdia1njN68ruybSoWl-xbjK6TXjEdLGr_dAKYHL-f_t0jR2LL8IgJrX/s320/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<div align="center">
+  <img alt="Coding" style="max-width:45%;height:auto;" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwULnceKPVHBOOOgcTbOWkyKqtwdhFrvE4YS5fUvXPRFAbPPeHC-98uzUB0eySGfZ-FJAPdYTSYuPoPSCz5fv7VqFYcMz__fVuoelCPPVhjR3JQrmvTF5DEW5cv57ALBLfYB8pQzdia1njN68ruybSoWl-xbjK6TXjEdLGr_dAKYHL-f_t0jR2LL8IgJrX/s320/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif?loop=1">
+</div>
 
 - 🔭 Currently working on [Movie Recommendation IMDB](https://github.com/Sivatech24/MovieRecommendationImdb.git)
 - 🌱 Learning **React, Unreal Engine 5**
@@ -31,19 +33,19 @@
 ---
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://codingmaster24.blogspot.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Sivatech24/Sivatech24/de27ffb89abf6f46cdadee0bf018c519748a86fe/ImagesHost/logos/11.png" alt="Blog" height="30" width="30" /></a>
-<a href="https://github.com/Sivatech24" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Sivatech24/Sivatech24/de27ffb89abf6f46cdadee0bf018c519748a86fe/ImagesHost/logos/github-logo.png" alt="GitHub" height="30" width="30" /></a>
-<a href="https://instagram.com/codingmaster2004" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Sivatech24/Sivatech24/de27ffb89abf6f46cdadee0bf018c519748a86fe/ImagesHost/logos/instagram.png" alt="Instagram" height="30" width="30" /></a>
-<a href="https://x.com/codingmaster24" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Sivatech24/Sivatech24/de27ffb89abf6f46cdadee0bf018c519748a86fe/ImagesHost/logos/twitter.png" alt="Twitter" height="30" width="30" /></a>
-<a href="https://reddit.com/user/Fit_Hyena_8026" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Sivatech24/Sivatech24/de27ffb89abf6f46cdadee0bf018c519748a86fe/ImagesHost/logos/reddit-icon-logo.png" alt="Reddit" height="30" width="30" /></a>
-<a href="https://bsky.app/profile/codingmaster24.bsky.social" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Sivatech24/Sivatech24/de27ffb89abf6f46cdadee0bf018c519748a86fe/ImagesHost/logos/Bluesky_Logo.svg.png" alt="Bluesky" height="30" width="30" /></a>
-<a href="https://dev.to/codingmaster24" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Sivatech24/Sivatech24/de27ffb89abf6f46cdadee0bf018c519748a86fe/ImagesHost/logos/dev-black.png" alt="Dev" height="30" width="30" /></a>
-<a href="https://deviantart.com/sivatech24" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Sivatech24/Sivatech24/de27ffb89abf6f46cdadee0bf018c519748a86fe/ImagesHost/logos/DeviantArt_Logo2.svg.png" alt="DeviantArt" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/sivas24" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Sivatech24/Sivatech24/de27ffb89abf6f46cdadee0bf018c519748a86fe/ImagesHost/logos/linkedin.png" alt="LinkedIn" height="30" width="30" /></a>
-<a href="https://codepen.io/CodingMaster2004" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Sivatech24/Sivatech24/de27ffb89abf6f46cdadee0bf018c519748a86fe/ImagesHost/logos/codepen.webp" alt="CodePen" height="30" width="30" /></a>
-<a href="https://www.kaggle.com/codingmaster24" target="blank"><img align="center" src="https://raw.githubusercontent.com/Sivatech24/Sivatech24/de27ffb89abf6f46cdadee0bf018c519748a86fe/ImagesHost/logos/thumbnail.png" alt="Kaggle" height="30" width="30" /></a>
-</p>
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
+  <a href="https://codingmaster24.blogspot.com" target="_blank"><img src="https://raw.githubusercontent.com/Sivatech24/Sivatech24/de27ffb89abf6f46cdadee0bf018c519748a86fe/ImagesHost/logos/11.png" alt="Blog" height="40" width="40"/></a>
+  <a href="https://github.com/Sivatech24" target="_blank"><img src="https://raw.githubusercontent.com/Sivatech24/Sivatech24/de27ffb89abf6f46cdadee0bf018c519748a86fe/ImagesHost/logos/github-logo.png" alt="GitHub" height="40" width="40"/></a>
+  <a href="https://instagram.com/codingmaster2004" target="_blank"><img src="https://raw.githubusercontent.com/Sivatech24/Sivatech24/de27ffb89abf6f46cdadee0bf018c519748a86fe/ImagesHost/logos/instagram.png" alt="Instagram" height="40" width="40"/></a>
+  <a href="https://x.com/codingmaster24" target="_blank"><img src="https://raw.githubusercontent.com/Sivatech24/Sivatech24/de27ffb89abf6f46cdadee0bf018c519748a86fe/ImagesHost/logos/twitter.png" alt="Twitter" height="40" width="40"/></a>
+  <a href="https://reddit.com/user/Fit_Hyena_8026" target="_blank"><img src="https://raw.githubusercontent.com/Sivatech24/Sivatech24/de27ffb89abf6f46cdadee0bf018c519748a86fe/ImagesHost/logos/reddit-icon-logo.png" alt="Reddit" height="40" width="40"/></a>
+  <a href="https://bsky.app/profile/codingmaster24.bsky.social" target="_blank"><img src="https://raw.githubusercontent.com/Sivatech24/Sivatech24/de27ffb89abf6f46cdadee0bf018c519748a86fe/ImagesHost/logos/Bluesky_Logo.svg.png" alt="Bluesky" height="40" width="40"/></a>
+  <a href="https://dev.to/codingmaster24" target="_blank"><img src="https://raw.githubusercontent.com/Sivatech24/Sivatech24/de27ffb89abf6f46cdadee0bf018c519748a86fe/ImagesHost/logos/dev-black.png" alt="Dev" height="40" width="40"/></a>
+  <a href="https://deviantart.com/sivatech24" target="_blank"><img src="https://raw.githubusercontent.com/Sivatech24/Sivatech24/de27ffb89abf6f46cdadee0bf018c519748a86fe/ImagesHost/logos/DeviantArt_Logo2.svg.png" alt="DeviantArt" height="40" width="40"/></a>
+  <a href="https://linkedin.com/in/sivas24" target="_blank"><img src="https://raw.githubusercontent.com/Sivatech24/Sivatech24/de27ffb89abf6f46cdadee0bf018c519748a86fe/ImagesHost/logos/linkedin.png" alt="LinkedIn" height="40" width="40"/></a>
+  <a href="https://codepen.io/CodingMaster2004" target="_blank"><img src="https://raw.githubusercontent.com/Sivatech24/Sivatech24/de27ffb89abf6f46cdadee0bf018c519748a86fe/ImagesHost/logos/codepen.webp" alt="CodePen" height="40" width="40"/></a>
+  <a href="https://www.kaggle.com/codingmaster24" target="blank"><img src="https://raw.githubusercontent.com/Sivatech24/Sivatech24/de27ffb89abf6f46cdadee0bf018c519748a86fe/ImagesHost/logos/thumbnail.png" alt="Kaggle" height="40" width="40"/></a>
+</div>
 
 <h3 align="center">Work:</h3>
 <p align="center">
