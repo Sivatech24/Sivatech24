@@ -1,0 +1,48 @@
+use this link for the logos of this with the new github links
+
+CODING MASTER 24
+codingmaster24.blogspot.com
+image url:"https://github.com/Sivatech24/Sivatech24/blob/de27ffb89abf6f46cdadee0bf018c519748a86fe/ImagesHost/logos/11.png"
+
+Github
+github.com/Sivatech24
+image url:"https://github.com/Sivatech24/Sivatech24/blob/de27ffb89abf6f46cdadee0bf018c519748a86fe/ImagesHost/logos/github-logo.png"
+
+Instagram
+instagram.com/codingmaster2004
+image url:"https://github.com/Sivatech24/Sivatech24/blob/de27ffb89abf6f46cdadee0bf018c519748a86fe/ImagesHost/logos/instagram.png"
+
+Twitter
+x.com/codingmaster24
+image url:"https://github.com/Sivatech24/Sivatech24/blob/de27ffb89abf6f46cdadee0bf018c519748a86fe/ImagesHost/logos/twitter.png"
+
+Reddit
+reddit.com/user/Fit_Hyena_8026
+image url:"https://github.com/Sivatech24/Sivatech24/blob/de27ffb89abf6f46cdadee0bf018c519748a86fe/ImagesHost/logos/reddit-icon-logo.png"
+
+Bluesky
+bsky.app/profile/codingmaster24.bsky.social
+image url:"https://github.com/Sivatech24/Sivatech24/blob/de27ffb89abf6f46cdadee0bf018c519748a86fe/ImagesHost/logos/Bluesky_Logo.svg.png"
+
+Dev
+dev.to/codingmaster24
+image url:"https://github.com/Sivatech24/Sivatech24/blob/de27ffb89abf6f46cdadee0bf018c519748a86fe/ImagesHost/logos/dev-black.png"
+
+DevianArt
+deviantart.com/sivatech24
+image url:"https://github.com/Sivatech24/Sivatech24/blob/de27ffb89abf6f46cdadee0bf018c519748a86fe/ImagesHost/logos/DeviantArt_Logo2.svg.png"
+
+LinkedIn
+linkedin.com/in/sivas24
+image url:"https://github.com/Sivatech24/Sivatech24/blob/de27ffb89abf6f46cdadee0bf018c519748a86fe/ImagesHost/logos/linkedin.png"
+
+CodePen
+codepen.io/CodingMaster2004
+image url1:"https://github.com/Sivatech24/Sivatech24/blob/de27ffb89abf6f46cdadee0bf018c519748a86fe/ImagesHost/logos/codepen.webp"
+image url2:"https://github.com/Sivatech24/Sivatech24/blob/de27ffb89abf6f46cdadee0bf018c519748a86fe/ImagesHost/logos/codepen-logo-computer-icons-others.jpg"
+image url gif:"https://github.com/Sivatech24/Sivatech24/blob/de27ffb89abf6f46cdadee0bf018c519748a86fe/ImagesHost/logos/original-9adf515257bea5817d4b33705cef22c6.gif"
+
+
+Kaggle
+kaggle.com/codingmaster24
+image url:"https://github.com/Sivatech24/Sivatech24/blob/de27ffb89abf6f46cdadee0bf018c519748a86fe/ImagesHost/logos/thumbnail.png"
