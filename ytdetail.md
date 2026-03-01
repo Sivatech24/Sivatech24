@@ -42,3 +42,6 @@ image url:"https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcQNHFYD6338
 
 " if already the link exists then leave i wil share the  link in this add up as an image imag in the its reference
 the image url: reference the website logo
+
+//
+
